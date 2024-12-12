@@ -9,8 +9,8 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 | RevOps Service                                       | Turnkey Development                                      |
 | ---------------------------------------------------- | ------------------------------------------------------- |
 | We design, develop, and manage RevOps strategies.    | We design pleasant-looking and well-converting websites. |
-| We take your sales & marketing actions              | We develop everything from A to Z.                     |
-| and align them to your revenue outcomes.            | We take care of proper functioning and livelihood of your website. |
+| We take your sales & marketing actions  and align them to your revenue outcomes.            | We develop everything from A to Z.                     |
+|             | We take care of proper functioning and livelihood of your website. |
 
 ## Contact us
 * <a href="https://calendly.com/dimitrylos/30min?month=2024-12">📞 Calendly</a>
