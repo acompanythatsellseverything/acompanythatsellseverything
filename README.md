@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./logo.png" width="100"/>
+  <img src="./contacts-bg.png" />
 </div>
 
 # <p align="center" style="color:#01266b"> A Company That Sells Everything</p>
@@ -10,7 +10,7 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 | ---------------------------------------------------- | ------------------------------------------------------- |
 | We design, develop, and manage RevOps strategies.    | We design pleasant-looking and well-converting websites. |
 | We take your sales & marketing actions  and align them to your revenue outcomes.            | We develop everything from A to Z.                     |
-|             | We take care of proper functioning and livelihood of your website. |
+|      As simple as that.       | We take care of proper functioning and livelihood of your website. |
 
 
 ## Contact us
@@ -20,4 +20,8 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,nextjs,nginx,git,docker,py,django,fastapi,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,nextjs,nginx,git,docker,py,django,fastapi,)
+
+<div id="header" align="center">
+  <img src="./contacts-bg.png" />
+</div>
