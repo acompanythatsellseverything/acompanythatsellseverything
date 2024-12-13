@@ -28,12 +28,9 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 </details>
 
 
-### 🛠️ OUR Tech Stack
-<details>
-   <summary>See there</summary>
+### 🛠️ Our Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,nextjs,nginx,git,docker,py,django,fastapi,)
-</details>
 
 #### <p align="center">Contact us</p>
 
