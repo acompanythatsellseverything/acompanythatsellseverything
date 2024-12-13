@@ -8,7 +8,7 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 
 | RevOps Service                                                                  | Turnkey Development                                                |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| We design, develop, and manage RevOps strategies.                               | We design pleasant-looking and well-converting websites.           |
+| We design, develop, and manage RevOps  strategies.                               | We design pleasant-looking and well-converting websites.           |
 | We take your sales & marketing actions and align them to your revenue outcomes. | We develop everything from A to Z.                                 |
 | As simple as that.                                                              | We take care of proper functioning and livelihood of your website. |
 
@@ -19,7 +19,8 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 #### <p align="center">Contact us</p>
 
 <p align="center">
-<a href="https://calendly.com/dimitrylos/30min?month=2024-12">📞 Calendly</a>
-<a href="https://acompanythatsellseverything.com/">🌐 Website</a>
-<a href="mailto:datastudio@actse.ltd">📧 Email</a>
+<a href="https://calendly.com/dimitrylos/30min?month=2024-12"><img src="./assets/phone.svg" width="30px" height="30px"/></a>
+<a href="mailto:datastudio@actse.ltd"><img src="./assets/email.svg" width="30px" height="30px"/></a>
+<a href="https://acompanythatsellseverything.com/"><img src="./assets/website.svg" width="30px" height="30px"/></a>
+<a href="https://www.linkedin.com/company/actse/about/"><img src="./assets/linkedin.svg" width="30px" height="30px"/></a>
 </p>
