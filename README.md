@@ -12,9 +12,28 @@ A Company That Sells Everything specializes in optimizing your Revenue Operation
 | We take your sales & marketing actions and align them to your revenue outcomes. | We develop everything from A to Z.                                 |
 | As simple as that.                                                              | We take care of proper functioning and livelihood of your website. |
 
-### 🛠️ Tech Stack
+### ⚙️ Our Tools
+<details>
+   <summary>See there</summary>
+
+| **CRM & Marketing Automation**             | **API Integration**                  | **Cold Emailing Tools**              | **Data Enrichment & Onboarding**     |
+|--------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![activecampaign](./assets/tools/activecampaign.png) | ![Make](./assets/tools/Make.svg)         | ![lemlist](./assets/tools/lemlist.png)       | ![clearbit](./assets/tools/clearbit.png)       |
+| ![hubspot](./assets/tools/hubspot.png)           | ![piperdream](./assets/tools/piperdream.svg) | ![instantly](./assets/tools/instantly.png)   | ![leadFeeder](./assets/tools/leadFeeder.png)   |
+| ![keap](./assets/tools/keap.png)                 | ![n8n](./assets/tools/n8n.png)            | ![gMass](./assets/tools/gMass.png)           | ![lotame](./assets/tools/lotame.png)           |
+| ![salesforce](./assets/tools/salesforce.png)     | ![zapier](./assets/tools/zapier.png)      | ![reply](./assets/tools/reply.png)           | ![mediaMath](./assets/tools/mediaMath.png)     |
+| ![zoho](./assets/tools/zoho.png)                 | ![segment](./assets/tools/segment.png)    | ![mailshake](./assets/tools/mailshake.png)   | ![stitch](./assets/tools/stitch.png)           |
+| ![pipedrive](./assets/tools/pipedrive.png)       | ![gmp](./assets/tools/gmp.png)           | ![mailWizz](./assets/tools/mailWizz.png)     | ![albacross](./assets/tools/albacross.png)     |
+| ![clickfunnels](./assets/tools/clickfunnels.png) | ![ontroport](./assets/tools/ontroport.png)| ![chilipiper](./assets/tools/chilipiper.png) | ![liveRamp](./assets/tools/liveRamp.png)       |
+</details>
+
+
+### 🛠️ OUR Tech Stack
+<details>
+   <summary>See there</summary>
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,nextjs,nginx,git,docker,py,django,fastapi,)
+</details>
 
 #### <p align="center">Contact us</p>
 
